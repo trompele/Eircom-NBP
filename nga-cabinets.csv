@@ -50,6 +50,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,ACY1_002,52.67055,-8.522496,,3,,,Fibre Broadband Cabinet is Live 
 ,,ACY1_003,52.681097,-8.511442,,3,,,Fibre Broadband Cabinet is Live 
 ,,ACY1_004,52.675105,-8.511964,,3,,,Fibre Broadband Cabinet is Live 
+,,ADA1_001,54.761888,-8.412812,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,ADA1_E01,54.764777,-8.409168,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,ADL1_E01,53.332839,-6.261184,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,ADW1_E01,53.336248,-6.454528,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -61,6 +62,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,AGN1_002,53.151426,-6.77706,,3,,,Fibre Broadband Cabinet is Live 
 ,,AGN1_003,53.152973,-6.778123,,3,,,Fibre Broadband Cabinet is Live 
 ,,AGN1_004,53.15555,-6.777983,,3,,,Fibre Broadband Cabinet is Live 
+,,AGY1_001,54.999303,-8.289871,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,AGY1_E01,55.021762,-8.316454,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,AHM1_001,52.852843,-6.336298,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,AHM1_E01,52.854057,-6.327898,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -90,7 +92,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,ANN1_002,52.176106,-7.251449,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,ANN1_002,52.176106,-7.251449,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,ANN1_E01,52.173185,-7.261921,,1,,,Fibre Broadband Cabinet is planned for this location
-,,ANR1_001,53.303562,-8.748896,,2,,,Fibre Broadband Cabinet is expected to go Live on 18/02/15
+,,ANR1_001,53.303562,-8.748896,,3,,,Fibre Broadband Cabinet is Live 
 ,,ANR1_002,53.301269,-8.754457,,3,,,Fibre Broadband Cabinet is Live 
 ,,ANR1_003,53.309644,-8.738256,,3,,,Fibre Broadband Cabinet is Live 
 ,,ANR1_004,53.305851,-8.747923,,3,,,Fibre Broadband Cabinet is Live 
@@ -141,7 +143,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,ATD1_E01,52.68452,-8.6049,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,ATH1_001,53.423411,-7.982765,,3,,,Fibre Broadband Cabinet is Live 
 ,,ATH1_002,53.422554,-7.949343,,3,,,Fibre Broadband Cabinet is Live 
-,,ATH1_003,53.418764,-7.984062,,2,,,Fibre Build commenced - completion work is in progress
+,,ATH1_003,53.418764,-7.984062,,2,,,Fibre Broadband Cabinet is expected to go Live on 19/03/15
 ,,ATH1_004,53.423138,-7.971352,,3,,,Fibre Broadband Cabinet is Live 
 ,,ATH1_005,53.424324,-7.962181,,3,,,Fibre Broadband Cabinet is Live 
 ,,ATH1_006,53.426624,-7.952917,,3,,,Fibre Broadband Cabinet is Live 
@@ -152,7 +154,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,ATH1_012,53.426072,-8.010501,,3,,,Fibre Broadband Cabinet is Live 
 ,,ATH1_013,53.424682,-7.98801,,3,,,Fibre Broadband Cabinet is Live 
 ,,ATH1_014,53.421835,-7.954218,,3,,,Fibre Broadband Cabinet is Live 
-,,ATH1_015,53.42805,-7.961285,,2,,,Fibre Broadband Cabinet is expected to go Live on 18/02/15
+,,ATH1_015,53.42805,-7.961285,,3,,,Fibre Broadband Cabinet is Live 
 ,,ATH1_017,53.422896,-7.946763,,2,,,Fibre Build commenced - completion work is in progress
 ,,ATH1_E01,53.423356,-7.945217,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,ATP1_E01,53.34668,-6.459993,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -174,7 +176,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,ATY1_019,52.996968,-6.976038,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,ATY1_020,52.961733,-6.934241,,3,,,Fibre Broadband Cabinet is Live 
 ,,ATY1_022,52.993761,-6.96444,,3,,,Fibre Broadband Cabinet is Live 
-,,ATY1_024,52.998833,-6.9881,,2,,,Fibre Broadband Cabinet is expected to go Live on 18/02/15
+,,ATY1_024,52.998833,-6.9881,,3,,,Fibre Broadband Cabinet is Live 
 ,,ATY1_025,53.000799,-6.987701,,3,,,Fibre Broadband Cabinet is Live 
 ,,ATY1_026,52.991941,-6.998259,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,ATY1_027,52.998123,-6.966042,,3,,,Fibre Broadband Cabinet is Live 
@@ -231,11 +233,11 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,BAI1_006,51.926674,-8.597452,,3,,,Fibre Broadband Cabinet is Live 
 ,,BAI1_007,51.953609,-8.543421,,3,,,Fibre Broadband Cabinet is Live 
 ,,BAI1_008,51.942586,-8.559896,,3,,,Fibre Broadband Cabinet is Live 
-,,BAI1_009,51.930419,-8.520049,,2,,,Fibre Build commenced - completion work is in progress
+,,BAI1_009,51.930419,-8.520049,,2,,,Fibre Broadband Cabinet is expected to go Live on 01/04/15
 ,,BAI1_010,51.936721,-8.583076,,3,,,Fibre Broadband Cabinet is Live 
 ,,BAI1_011,51.939814,-8.559506,,3,,,Fibre Broadband Cabinet is Live 
 ,,BAI1_012,51.926186,-8.610818,,3,,,Fibre Broadband Cabinet is Live 
-,,BAI1_013,51.937371,-8.550178,,2,,,Fibre Build commenced - completion work is in progress
+,,BAI1_013,51.937371,-8.550178,,2,,,Fibre Broadband Cabinet is expected to go Live on 01/04/15
 ,,BAI1_014,51.922272,-8.598046,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,BAI1_E01,51.931301,-8.560437,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,BAL1_E01,52.560742,-9.191008,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -262,7 +264,6 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,BAY1_003,51.671709,-9.475485,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,BAY1_004,51.646178,-9.432183,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,BAY1_E01,51.679224,-9.448653,,1,,,Fibre Broadband Cabinet is planned for this location
-,,BBA1_001,54.130102,-6.902535,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,BBA1_002,54.125016,-6.900713,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,BBA1_003,54.130749,-6.892759,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,BBA1_004,54.121561,-6.900577,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -445,6 +446,8 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,BDT1_133,53.379392,-6.396698,,3,,,Fibre Broadband Cabinet is Live 
 ,,BDT1_134,53.391983,-6.368879,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,BDT1_E01,53.393005,-6.388318,,2,,,Fibre Build commenced - completion work is in progress
+,,BEG1_001,55.060953,-8.30033,,1,,,Fibre Broadband Cabinet is planned for this location
+,,BEG1_002,55.070926,-8.296661,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,BEG1_E01,55.067448,-8.287105,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,BEN1_002,53.905659,-8.587271,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,BEN1_004,53.905152,-8.568536,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -464,8 +467,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,BFT1_E01,52.069226,-9.635293,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,BGA1_E01,55.359585,-7.333712,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,BGE1_001,55.057577,-7.40456,,1,,,Fibre Broadband Cabinet is planned for this location
-,,BGH1_001,53.932543,-7.408821,,1,,,Fibre Broadband Cabinet is planned for this location
-,,BGH1_002,53.924513,-7.414075,,1,,,Fibre Broadband Cabinet is planned for this location
+,,BGH1_003,53.954873,-7.438037,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,BGH1_E01,53.931092,-7.410193,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,BGS1_001,52.93978,-6.715319,,3,,,Fibre Broadband Cabinet is Live 
 ,,BGS1_003,52.981015,-6.667278,,2,,,Fibre Build commenced - completion work is in progress
@@ -537,7 +539,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,BLA1_027,54.112711,-9.159273,,3,,,Fibre Broadband Cabinet is Live 
 ,,BLA1_028,54.110594,-9.15848,,3,,,Fibre Broadband Cabinet is Live 
 ,,BLA1_029,54.106634,-9.162702,,3,,,Fibre Broadband Cabinet is Live 
-,,BLA1_030,54.082401,-9.169083,,3,,,Fibre Broadband Cabinet is Live 
+,,BLA1_030,54.082401,-9.169083,,2,,,Fibre Build commenced - completion work is in progress
 ,,BLA1_031,54.119188,-9.184338,,3,,,Fibre Broadband Cabinet is Live 
 ,,BLA1_032,54.117722,-9.149329,,3,,,Fibre Broadband Cabinet is Live 
 ,,BLA1_033,54.114085,-9.151381,,3,,,Fibre Broadband Cabinet is Live 
@@ -575,7 +577,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,BLB1_035,53.294744,-6.280304,,3,,,Fibre Broadband Cabinet is Live 
 ,,BLB1_038,53.277698,-6.297015,,3,,,Fibre Broadband Cabinet is Live 
 ,,BLB1_039,53.296321,-6.296558,,3,,,Fibre Broadband Cabinet is Live 
-,,BLB1_040,53.278302,-6.284456,,1,,,Fibre Broadband Cabinet is planned for this location
+,,BLB1_040,53.278302,-6.284456,,2,,,Fibre Broadband Cabinet is expected to go Live on 01/04/15
 ,,BLB1_041,53.291047,-6.289481,,3,,,Fibre Broadband Cabinet is Live 
 ,,BLB1_042,53.290654,-6.282426,,3,,,Fibre Broadband Cabinet is Live 
 ,,BLB1_043,53.274913,-6.330503,,3,,,Fibre Broadband Cabinet is Live 
@@ -927,11 +929,11 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,BRN2_049,53.600921,-6.177739,,3,,,Fibre Broadband Cabinet is Live 
 ,,BRN2_050,53.601954,-6.176584,,3,,,Fibre Broadband Cabinet is Live 
 ,,BRN2_052,53.607577,-6.183613,,3,,,Fibre Broadband Cabinet is Live 
-,,BRN2_053,53.614205,-6.205044,,3,,,Fibre Broadband Cabinet is Live 
+,,BRN2_053,53.614205,-6.205044,,2,,,Fibre Build commenced - completion work is in progress
 ,,BRN2_054,53.63891,-6.264223,,3,,,Fibre Broadband Cabinet is Live 
-,,BRN2_055,53.608905,-6.20193,,1,,,Fibre Broadband Cabinet is planned for this location
+,,BRN2_055,53.608905,-6.20193,,3,,,Fibre Broadband Cabinet is Live 
 ,,BRN2_056,53.605448,-6.171207,,3,,,Fibre Broadband Cabinet is Live 
-,,BRN2_E01,53.612107,-6.188221,,1,,,Fibre Broadband Cabinet is planned for this location
+,,BRN2_E01,53.612107,-6.188221,,3,,,Fibre Broadband Cabinet is Live 
 ,,BRS1_001,52.60851,-6.893919,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,BRS1_002,52.597187,-6.920036,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,BRS1_003,52.602378,-6.923896,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -950,7 +952,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,BSE1_008,53.323147,-8.218453,,3,,,Fibre Broadband Cabinet is Live 
 ,,BSE1_009,53.33103,-8.226371,,3,,,Fibre Broadband Cabinet is Live 
 ,,BSE1_010,53.334179,-8.246233,,3,,,Fibre Broadband Cabinet is Live 
-,,BSE1_011,53.336813,-8.239423,,2,,,Fibre Broadband Cabinet is expected to go Live on 05/03/15
+,,BSE1_011,53.336813,-8.239423,,3,,,Fibre Broadband Cabinet is Live 
 ,,BSE1_012,53.328587,-8.233448,,3,,,Fibre Broadband Cabinet is Live 
 ,,BSE1_013,53.330283,-8.188277,,3,,,Fibre Broadband Cabinet is Live 
 ,,BSE1_014,53.335527,-8.204259,,2,,,Fibre Build commenced - completion work is in progress
@@ -1023,9 +1025,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,BUO1_006,52.650706,-6.653585,,3,,,Fibre Broadband Cabinet is Live 
 ,,BUO1_007,52.644069,-6.64979,,3,,,Fibre Broadband Cabinet is Live 
 ,,BUO1_E01,52.651519,-6.648952,,2,,,Fibre Build commenced - completion work is in progress
-,,BUT1_001,54.101966,-7.449405,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,BUT1_002,54.098013,-7.427637,,1,,,Fibre Broadband Cabinet is planned for this location
-,,BUT1_003,54.105492,-7.434017,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,BUT1_004,54.098909,-7.458463,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,BUT1_E01,54.099938,-7.44375,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,BVR1_001,53.533514,-6.958363,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -1058,7 +1058,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,Cab1_007,53.354878,-6.293294,,3,,,Fibre Broadband Cabinet is Live 
 ,,Cab1_008,53.35365,-6.290516,,3,,,Fibre Broadband Cabinet is Live 
 ,,Cab1_010,53.354678,-6.288191,,3,,,Fibre Broadband Cabinet is Live 
-,,Cab1_011,53.355528,-6.286676,,2,,,Fibre Broadband Cabinet is expected to go Live on 05/03/15
+,,Cab1_011,53.355528,-6.286676,,3,,,Fibre Broadband Cabinet is Live 
 ,,Cab1_012,53.360944,-6.28245,,3,,,Fibre Broadband Cabinet is Live 
 ,,Cab1_013,53.364408,-6.299106,,3,,,Fibre Broadband Cabinet is Live 
 ,,Cab1_014,53.359731,-6.27822,,3,,,Fibre Broadband Cabinet is Live 
@@ -1121,6 +1121,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,CAL1_001,53.960199,-8.802553,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,CAL1_E01,53.962728,-8.793115,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,CAM1_E01,53.314478,-8.879778,,1,,,Fibre Broadband Cabinet is planned for this location
+,,CAT1_001,55.193582,-7.831022,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,CAT1_E01,55.175155,-7.79906,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,CAV1_001,53.991195,-7.36246,,3,,,Fibre Broadband Cabinet is Live 
 ,,CAV1_002,53.983453,-7.3585,,3,,,Fibre Broadband Cabinet is Live 
@@ -1258,7 +1259,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,CEE1_022,53.399971,-6.436525,,3,,,Fibre Broadband Cabinet is Live 
 ,,CEE1_023,53.394306,-6.439758,,3,,,Fibre Broadband Cabinet is Live 
 ,,CEE1_024,53.398143,-6.430057,,3,,,Fibre Broadband Cabinet is Live 
-,,CEE1_025,53.398865,-6.427813,,2,,,Fibre Build commenced - completion work is in progress
+,,CEE1_025,53.398865,-6.427813,,2,,,Fibre Broadband Cabinet is expected to go Live on 26/03/15
 ,,CEE1_027,53.407052,-6.399219,,3,,,Fibre Broadband Cabinet is Live 
 ,,CEE1_028,53.409871,-6.398002,,3,,,Fibre Broadband Cabinet is Live 
 ,,CEE1_029,53.392051,-6.443422,,3,,,Fibre Broadband Cabinet is Live 
@@ -1270,7 +1271,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,CEE1_070,53.404966,-6.429737,,3,,,Fibre Broadband Cabinet is Live 
 ,,CEL1_001,53.335389,-6.540277,,3,,,Fibre Broadband Cabinet is Live 
 ,,CEL1_002,53.352749,-6.546643,,3,,,Fibre Broadband Cabinet is Live 
-,,CEL1_003,53.300237,-6.564659,,1,,,Fibre Broadband Cabinet is planned for this location
+,,CEL1_003,53.300237,-6.564659,,2,,,Fibre Build commenced - completion work is in progress
 ,,CEL1_004,53.335312,-6.546168,,3,,,Fibre Broadband Cabinet is Live 
 ,,CEL1_006,53.346166,-6.543783,,3,,,Fibre Broadband Cabinet is Live 
 ,,CEL1_007,53.350886,-6.548077,,3,,,Fibre Broadband Cabinet is Live 
@@ -1279,8 +1280,8 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,CEL1_011,53.342944,-6.540492,,3,,,Fibre Broadband Cabinet is Live 
 ,,CEL1_012,53.347119,-6.541563,,3,,,Fibre Broadband Cabinet is Live 
 ,,CEL1_013,53.333774,-6.549378,,3,,,Fibre Broadband Cabinet is Live 
-,,CEL1_014,53.343818,-6.554185,,1,,,Fibre Broadband Cabinet is planned for this location
-,,CEL1_015,53.341794,-6.550669,,1,,,Fibre Broadband Cabinet is planned for this location
+,,CEL1_014,53.343818,-6.554185,,2,,,Fibre Build commenced - completion work is in progress
+,,CEL1_015,53.341794,-6.550669,,2,,,Fibre Build commenced - completion work is in progress
 ,,CEL1_016,53.338052,-6.552973,,3,,,Fibre Broadband Cabinet is Live 
 ,,CEL1_017,53.33078,-6.54703,,3,,,Fibre Broadband Cabinet is Live 
 ,,CEL1_018,53.333913,-6.542582,,3,,,Fibre Broadband Cabinet is Live 
@@ -1357,7 +1358,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,CHD1_015,52.667059,-8.657969,,3,,,Fibre Broadband Cabinet is Live 
 ,,CHD1_017,52.680848,-8.645043,,3,,,Fibre Broadband Cabinet is Live 
 ,,CHD1_018,52.667647,-8.63184,,3,,,Fibre Broadband Cabinet is Live 
-,,CHD1_019,52.671513,-8.640369,,2,,,Fibre Build commenced - completion work is in progress
+,,CHD1_019,52.671513,-8.640369,,2,,,Fibre Broadband Cabinet is expected to go Live on 01/04/15
 ,,CHD1_020,52.672012,-8.635156,,3,,,Fibre Broadband Cabinet is Live 
 ,,CHD1_021,52.674323,-8.660303,,3,,,Fibre Broadband Cabinet is Live 
 ,,CHD1_022,52.664105,-8.657455,,3,,,Fibre Broadband Cabinet is Live 
@@ -1532,7 +1533,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,CLK1_013,53.380733,-6.19388,,3,,,Fibre Broadband Cabinet is Live 
 ,,CLK1_014,53.379268,-6.168806,,3,,,Fibre Broadband Cabinet is Live 
 ,,CLK1_015,53.378374,-6.174407,,1,,,Fibre Broadband Cabinet is planned for this location
-,,CLK1_016,53.376081,-6.215614,,1,,,Fibre Broadband Cabinet is planned for this location
+,,CLK1_016,53.376081,-6.215614,,2,,,Fibre Build commenced - completion work is in progress
 ,,CLK1_019,53.376837,-6.226937,,2,,,Fibre Build commenced - completion work is in progress
 ,,CLK1_020,53.377513,-6.215726,,3,,,Fibre Broadband Cabinet is Live 
 ,,CLK1_021,53.377481,-6.220502,,3,,,Fibre Broadband Cabinet is Live 
@@ -1683,13 +1684,13 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,CNW1_E01,52.710149,-6.491867,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,CON1_E01,53.778024,-6.484395,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,COS1_001,52.351446,-7.415242,,3,,,Fibre Broadband Cabinet is Live 
-,,COS1_002,52.35015,-7.396269,,1,,,Fibre Broadband Cabinet is planned for this location
+,,COS1_002,52.35015,-7.396269,,2,,,Fibre Build commenced - completion work is in progress
 ,,COS1_003,52.343039,-7.41202,,2,,,Fibre Build commenced - completion work is in progress
 ,,COS1_004,52.347858,-7.416706,,3,,,Fibre Broadband Cabinet is Live 
 ,,COS1_006,52.351031,-7.39058,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,COS1_007,52.342229,-7.40552,,3,,,Fibre Broadband Cabinet is Live 
 ,,COS1_008,52.349771,-7.416394,,3,,,Fibre Broadband Cabinet is Live 
-,,COS1_009,52.348693,-7.424164,,1,,,Fibre Broadband Cabinet is planned for this location
+,,COS1_009,52.348693,-7.424164,,2,,,Fibre Build commenced - completion work is in progress
 ,,COS1_011,52.343508,-7.419124,,2,,,Fibre Build commenced - completion work is in progress
 ,,COS1_012,52.354062,-7.413739,,3,,,Fibre Broadband Cabinet is Live 
 ,,COS1_014,52.353286,-7.407415,,2,,,Fibre Build commenced - completion work is in progress
@@ -1706,7 +1707,6 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,COV1_010,51.857494,-8.303836,,3,,,Fibre Broadband Cabinet is Live 
 ,,COV1_E01,51.85092,-8.29511,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,COY1_001,54.863256,-7.653553,,1,,,Fibre Broadband Cabinet is planned for this location
-,,COY1_002,54.864431,-7.664349,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,COY1_E01,54.859008,-7.66886,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,CPH1_E01,52.116288,-7.742688,,2,,,Fibre Build commenced - completion work is in progress
 ,,CPL1_001,52.29078,-6.94206,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -1736,7 +1736,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,CRA1_078,53.343215,-6.265627,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,CRA1_E01,53.34552,-6.2626,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,CRA2_005,53.351686,-6.286594,,2,,,Fibre Build commenced - completion work is in progress
-,,CRA2_010,53.34779,-6.281855,,2,,,Fibre Broadband Cabinet is expected to go Live on 21/01/15
+,,CRA2_010,53.34779,-6.281855,,3,,,Fibre Broadband Cabinet is Live 
 ,,CRA2_011,53.349204,-6.282083,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,CRA2_014,53.350501,-6.281626,,3,,,Fibre Broadband Cabinet is Live 
 ,,CRA2_046,53.351848,-6.284695,,3,,,Fibre Broadband Cabinet is Live 
@@ -1937,8 +1937,6 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,CTH1_001,53.572965,-6.209249,,3,,,Fibre Broadband Cabinet is Live 
 ,,CTL1_001,54.077375,-7.089092,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,CTL1_002,54.074882,-7.079001,,1,,,Fibre Broadband Cabinet is planned for this location
-,,CTL1_003,54.075894,-7.086666,,1,,,Fibre Broadband Cabinet is planned for this location
-,,CTL1_004,54.070635,-7.079796,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,CTL1_006,54.067662,-7.063195,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,CTL1_E01,54.072563,-7.085299,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,CTW1_E01,53.760399,-6.840504,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -2081,7 +2079,6 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,DBC1_050,53.727204,-6.362029,,3,,,Fibre Broadband Cabinet is Live 
 ,,DBC1_051,53.713404,-6.344674,,3,,,Fibre Broadband Cabinet is Live 
 ,,DBC1_052,53.717712,-6.351779,,3,,,Fibre Broadband Cabinet is Live 
-,,DBC1_053,53.716342,-6.353221,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,DBC1_054,53.716278,-6.351179,,2,,,Fibre Build commenced - completion work is in progress
 ,,DBC1_055,53.715019,-6.349794,,2,,,Fibre Build commenced - completion work is in progress
 ,,DBC1_056,53.71865,-6.3548,,3,,,Fibre Broadband Cabinet is Live 
@@ -2121,7 +2118,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,DBN1_029,53.331918,-6.27778,,3,,,Fibre Broadband Cabinet is Live 
 ,,DBN1_030,53.331244,-6.281433,,3,,,Fibre Broadband Cabinet is Live 
 ,,DBN1_031,53.33753,-6.287165,,1,,,Fibre Broadband Cabinet is planned for this location
-,,DBN1_032,53.338106,-6.291798,,2,,,Fibre Broadband Cabinet is expected to go Live on 05/03/15
+,,DBN1_032,53.338106,-6.291798,,3,,,Fibre Broadband Cabinet is Live 
 ,,DBN1_033,53.335977,-6.284024,,3,,,Fibre Broadband Cabinet is Live 
 ,,DBN1_034,53.3365,-6.287482,,3,,,Fibre Broadband Cabinet is Live 
 ,,DBN1_035,53.337414,-6.281563,,3,,,Fibre Broadband Cabinet is Live 
@@ -2228,50 +2225,50 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,DDK1_049,54.000591,-6.423798,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDK1_050,54.018775,-6.404077,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDK1_E01,54.001143,-6.401292,,1,,,Fibre Broadband Cabinet is planned for this location
-,,DDM1_001,53.300336,-6.26156,,1,,,Fibre Broadband Cabinet is planned for this location
-,,DDM1_002,53.300312,-6.263556,,1,,,Fibre Broadband Cabinet is planned for this location
-,,DDM1_003,53.296206,-6.261803,,2,,,Fibre Build commenced - completion work is in progress
+,,DDM1_001,53.300336,-6.26156,,2,,,Fibre Build commenced - completion work is in progress
+,,DDM1_002,53.300312,-6.263556,,2,,,Fibre Build commenced - completion work is in progress
+,,DDM1_003,53.296206,-6.261803,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_006,53.292876,-6.231861,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_007,53.298599,-6.237212,,2,,,Fibre Build commenced - completion work is in progress
 ,,DDM1_008,53.296763,-6.233382,,3,,,Fibre Broadband Cabinet is Live 
-,,DDM1_009,53.29453,-6.264328,,2,,,Fibre Build commenced - completion work is in progress
+,,DDM1_009,53.29453,-6.264328,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_010,53.295477,-6.261228,,2,,,Fibre Build commenced - completion work is in progress
-,,DDM1_011,53.294552,-6.256757,,2,,,Fibre Build commenced - completion work is in progress
+,,DDM1_011,53.294552,-6.256757,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_012,53.291518,-6.239573,,3,,,Fibre Broadband Cabinet is Live 
-,,DDM1_013,53.301811,-6.245044,,2,,,Fibre Build commenced - completion work is in progress
-,,DDM1_014,53.303829,-6.250272,,2,,,Fibre Build commenced - completion work is in progress
-,,DDM1_016,53.290356,-6.256222,,2,,,Fibre Build commenced - completion work is in progress
+,,DDM1_013,53.301811,-6.245044,,3,,,Fibre Broadband Cabinet is Live 
+,,DDM1_014,53.303829,-6.250272,,3,,,Fibre Broadband Cabinet is Live 
+,,DDM1_016,53.290356,-6.256222,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_017,53.29463,-6.252845,,3,,,Fibre Broadband Cabinet is Live 
-,,DDM1_018,53.287155,-6.257957,,2,,,Fibre Build commenced - completion work is in progress
+,,DDM1_018,53.287155,-6.257957,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_019,53.284336,-6.250818,,2,,,Fibre Build commenced - completion work is in progress
 ,,DDM1_020,53.299332,-6.252834,,3,,,Fibre Broadband Cabinet is Live 
-,,DDM1_021,53.297967,-6.246432,,2,,,Fibre Build commenced - completion work is in progress
-,,DDM1_022,53.303827,-6.245246,,2,,,Fibre Build commenced - completion work is in progress
-,,DDM1_023,53.296056,-6.24603,,2,,,Fibre Build commenced - completion work is in progress
+,,DDM1_021,53.297967,-6.246432,,3,,,Fibre Broadband Cabinet is Live 
+,,DDM1_022,53.303827,-6.245246,,3,,,Fibre Broadband Cabinet is Live 
+,,DDM1_023,53.296056,-6.24603,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_025,53.287078,-6.226235,,3,,,Fibre Broadband Cabinet is Live 
-,,DDM1_026,53.279327,-6.251723,,2,,,Fibre Build commenced - completion work is in progress
+,,DDM1_026,53.279327,-6.251723,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_027,53.291032,-6.247905,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_030,53.292363,-6.243229,,2,,,Fibre Build commenced - completion work is in progress
 ,,DDM1_031,53.284897,-6.258475,,3,,,Fibre Broadband Cabinet is Live 
-,,DDM1_032,53.275609,-6.245159,,2,,,Fibre Build commenced - completion work is in progress
+,,DDM1_032,53.275609,-6.245159,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_034,53.302815,-6.244017,,1,,,Fibre Broadband Cabinet is planned for this location
-,,DDM1_035,53.286989,-6.246657,,2,,,Fibre Build commenced - completion work is in progress
+,,DDM1_035,53.286989,-6.246657,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_036,53.286741,-6.243204,,1,,,Fibre Broadband Cabinet is planned for this location
-,,DDM1_037,53.273881,-6.242546,,1,,,Fibre Broadband Cabinet is planned for this location
-,,DDM1_038,53.291454,-6.233201,,2,,,Fibre Build commenced - completion work is in progress
+,,DDM1_037,53.273881,-6.242546,,2,,,Fibre Build commenced - completion work is in progress
+,,DDM1_038,53.291454,-6.233201,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_039,53.302307,-6.233614,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_040,53.294322,-6.231667,,3,,,Fibre Broadband Cabinet is Live 
-,,DDM1_041,53.280252,-6.248687,,2,,,Fibre Build commenced - completion work is in progress
-,,DDM1_042,53.275642,-6.246207,,1,,,Fibre Broadband Cabinet is planned for this location
-,,DDM1_043,53.271352,-6.249036,,2,,,Fibre Build commenced - completion work is in progress
+,,DDM1_041,53.280252,-6.248687,,3,,,Fibre Broadband Cabinet is Live 
+,,DDM1_042,53.275642,-6.246207,,2,,,Fibre Build commenced - completion work is in progress
+,,DDM1_043,53.271352,-6.249036,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_044,53.287994,-6.264628,,2,,,Fibre Build commenced - completion work is in progress
-,,DDM1_045,53.287119,-6.257958,,2,,,Fibre Build commenced - completion work is in progress
+,,DDM1_045,53.287119,-6.257958,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_046,53.296501,-6.23425,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_048,53.288731,-6.247547,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_049,53.2866,-6.22748,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_050,53.291698,-6.258314,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_051,53.284177,-6.258115,,3,,,Fibre Broadband Cabinet is Live 
-,,DDM1_052,53.291472,-6.233155,,2,,,Fibre Build commenced - completion work is in progress
+,,DDM1_052,53.291472,-6.233155,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_053,53.292331,-6.26125,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_054,53.285601,-6.237825,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_055,53.290366,-6.256167,,3,,,Fibre Broadband Cabinet is Live 
@@ -2283,15 +2280,15 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,DDM1_064,53.298484,-6.253737,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_065,53.281623,-6.242889,,2,,,Fibre Build commenced - completion work is in progress
 ,,DDM1_066,53.291755,-6.265248,,3,,,Fibre Broadband Cabinet is Live 
-,,DDM1_067,53.283866,-6.245675,,2,,,Fibre Build commenced - completion work is in progress
-,,DDM1_068,53.301217,-6.245594,,2,,,Fibre Build commenced - completion work is in progress
-,,DDM1_069,53.296,-6.245852,,2,,,Fibre Build commenced - completion work is in progress
+,,DDM1_067,53.283866,-6.245675,,3,,,Fibre Broadband Cabinet is Live 
+,,DDM1_068,53.301217,-6.245594,,3,,,Fibre Broadband Cabinet is Live 
+,,DDM1_069,53.296,-6.245852,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_071,53.287007,-6.241737,,1,,,Fibre Broadband Cabinet is planned for this location
-,,DDM1_102,53.282745,-6.243845,,2,,,Fibre Broadband Cabinet is expected to go Live on 05/03/15
+,,DDM1_102,53.282745,-6.243845,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_103,53.271939,-6.248334,,2,,,Fibre Build commenced - completion work is in progress
 ,,DDM1_104,53.287669,-6.241021,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,DDM1_107,53.287135,-6.266718,,1,,,Fibre Broadband Cabinet is planned for this location
-,,DDM1_108,53.281503,-6.243137,,2,,,Fibre Broadband Cabinet is expected to go Live on 05/03/15
+,,DDM1_108,53.281503,-6.243137,,3,,,Fibre Broadband Cabinet is Live 
 ,,DDM1_E01,53.29239,-6.24555,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,DEZ1_001,53.419269,-6.474835,,3,,,Fibre Broadband Cabinet is Live 
 ,,DEZ1_002,53.423554,-6.483375,,3,,,Fibre Broadband Cabinet is Live 
@@ -2312,6 +2309,9 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,DEZ1_020,53.407407,-6.445313,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,DEZ1_021,53.413035,-6.487152,,3,,,Fibre Broadband Cabinet is Live 
 ,,DEZ1_E01,53.423401,-6.473715,,1,,,Fibre Broadband Cabinet is planned for this location
+,,DFY1_001,55.174324,-7.927897,,1,,,Fibre Broadband Cabinet is planned for this location
+,,DFY1_002,55.177006,-7.94277,,1,,,Fibre Broadband Cabinet is planned for this location
+,,DFY1_003,55.180032,-7.976548,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,DGE1_001,52.13955,-10.27063,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,DGE1_002,52.139344,-10.274106,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,DGE1_003,52.142433,-10.287604,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -2372,6 +2372,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,DGS1_071,51.877638,-8.438943,,3,,,Fibre Broadband Cabinet is Live 
 ,,DGS1_E01,51.87576319,-8.436076181,,2,,,Fibre Build commenced - completion work is in progress
 ,,DGY1_E01,51.967085,-8.09685,,1,,,Fibre Broadband Cabinet is planned for this location
+,,DKE1_001,54.639518,-8.387512,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,DKE1_E01,54.63118,-8.364225,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,DLA1_001,53.285934,-6.127224,,3,,,Fibre Broadband Cabinet is Live 
 ,,DLA1_003,53.291733,-6.135777,,3,,,Fibre Broadband Cabinet is Live 
@@ -2450,8 +2451,8 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,DLA1_102,53.2921,-6.131166,,3,,,Fibre Broadband Cabinet is Live 
 ,,DLA1_103,53.282971,-6.146492,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,DLA1_104,53.294731,-6.151499,,3,,,Fibre Broadband Cabinet is Live 
-,,DLA1_106,53.292867,-6.141032,,2,,,Fibre Build commenced - completion work is in progress
-,,DLA1_107,53.295617,-6.145395,,2,,,Fibre Build commenced - completion work is in progress
+,,DLA1_106,53.292867,-6.141032,,2,,,Fibre Broadband Cabinet is expected to go Live on 08/04/15
+,,DLA1_107,53.295617,-6.145395,,2,,,Fibre Broadband Cabinet is expected to go Live on 08/04/15
 ,,DLA1_108,53.286478,-6.122804,,3,,,Fibre Broadband Cabinet is Live 
 ,,DLA1_112,53.292594,-6.142867,,3,,,Fibre Broadband Cabinet is Live 
 ,,DLA1_113,53.285852,-6.15654,,2,,,Fibre Build commenced - completion work is in progress
@@ -2469,6 +2470,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,DLK1_005,53.659349,-6.415219,,3,,,Fibre Broadband Cabinet is Live 
 ,,DLK1_006,53.653467,-6.435241,,3,,,Fibre Broadband Cabinet is Live 
 ,,DLK1_E01,53.653871,-6.417527,,1,,,Fibre Broadband Cabinet is planned for this location
+,,DLO1_009,54.934381,-8.388642,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,DLO1_E01,54.953204,-8.362661,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,DLR1_001,53.831056,-6.397997,,3,,,Fibre Broadband Cabinet is Live 
 ,,DLR1_002,53.799013,-6.39384,,3,,,Fibre Broadband Cabinet is Live 
@@ -2587,7 +2589,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,DVA1_017,52.087386,-7.620101,,3,,,Fibre Broadband Cabinet is Live 
 ,,DVA1_018,52.091491,-7.624919,,3,,,Fibre Broadband Cabinet is Live 
 ,,DVA1_019,52.105365,-7.603613,,3,,,Fibre Broadband Cabinet is Live 
-,,DVA1_020,52.087327,-7.629521,,2,,,Fibre Broadband Cabinet is expected to go Live on 05/03/15
+,,DVA1_020,52.087327,-7.629521,,3,,,Fibre Broadband Cabinet is Live 
 ,,DVA1_021,52.101107,-7.603132,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,DVA1_022,52.094781,-7.60425,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,DVA1_E01,52.091966,-7.622344,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -2622,7 +2624,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,DYX1_040,51.888933,-8.503473,,3,,,Fibre Broadband Cabinet is Live 
 ,,DYX1_041,51.891703,-8.495301,,3,,,Fibre Broadband Cabinet is Live 
 ,,DYX1_042,51.895688,-8.51343,,1,,,Fibre Broadband Cabinet is planned for this location
-,,DYX1_043,51.879626,-8.519792,,1,,,Fibre Broadband Cabinet is planned for this location
+,,DYX1_043,51.879626,-8.519792,,2,,,Fibre Build commenced - completion work is in progress
 ,,DYX1_E01,51.8904,-8.507603,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,EDY1_001,53.333084,-7.068627,,3,,,Fibre Broadband Cabinet is Live 
 ,,EDY1_002,53.343418,-7.049108,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -2753,6 +2755,10 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,FBK1_038,52.279996,-7.142826,,3,,,Fibre Broadband Cabinet is Live 
 ,,FBK1_039,52.280361,-7.168071,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,FBK1_E01,52.26945,-7.09677,,2,,,Fibre Build commenced - completion work is in progress
+,,FCA1_001,55.13625,-8.106584,,1,,,Fibre Broadband Cabinet is planned for this location
+,,FCA1_002,55.118066,-8.137934,,1,,,Fibre Broadband Cabinet is planned for this location
+,,FCA1_003,55.123661,-8.164594,,1,,,Fibre Broadband Cabinet is planned for this location
+,,FCA1_004,55.136041,-8.109216,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,FCA1_E01,55.137509,-8.101709,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,FET1_001,52.471211,-7.691776,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,FET1_E01,52.466766,-7.694066,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -2795,7 +2801,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,FNG1_018,53.394656,-6.311078,,3,,,Fibre Broadband Cabinet is Live 
 ,,FNG1_019,53.392404,-6.311486,,3,,,Fibre Broadband Cabinet is Live 
 ,,FNG1_020,53.389564,-6.31359,,3,,,Fibre Broadband Cabinet is Live 
-,,FNG1_021,53.379263,-6.290159,,2,,,Fibre Broadband Cabinet is expected to go Live on 05/03/15
+,,FNG1_021,53.379263,-6.290159,,3,,,Fibre Broadband Cabinet is Live 
 ,,FNG1_022,53.384291,-6.293863,,3,,,Fibre Broadband Cabinet is Live 
 ,,FNG1_023,53.379576,-6.281203,,3,,,Fibre Broadband Cabinet is Live 
 ,,FNG1_024,53.386662,-6.300269,,3,,,Fibre Broadband Cabinet is Live 
@@ -2883,7 +2889,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,GAL1_001,53.275353,-9.046201,,3,,,Fibre Broadband Cabinet is Live 
 ,,GAL1_002,53.283803,-9.0455,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,GAL1_003,53.28055,-9.047678,,3,,,Fibre Broadband Cabinet is Live 
-,,GAL1_004,53.270498,-9.052505,,2,,,Fibre Broadband Cabinet is expected to go Live on 05/03/15
+,,GAL1_004,53.270498,-9.052505,,3,,,Fibre Broadband Cabinet is Live 
 ,,GAL1_005,53.269911,-9.046083,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,GAL1_006,53.27976,-9.046015,,3,,,Fibre Broadband Cabinet is Live 
 ,,GAL1_007,53.276288,-9.045705,,3,,,Fibre Broadband Cabinet is Live 
@@ -2897,7 +2903,6 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,GAL1_015,53.269314,-9.051384,,3,,,Fibre Broadband Cabinet is Live 
 ,,GAL1_024,53.27114,-9.048137,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,GAL1_E01,53.27381,-9.05196,,1,,,Fibre Broadband Cabinet is planned for this location
-,,GAR1_001,53.567581,-6.383349,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,GAR1_002,53.564498,-6.44376,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,GAR1_003,53.570475,-6.396808,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,GAR1_004,53.564533,-6.354213,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -3016,8 +3021,9 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,GRY1_018,52.679049,-6.307443,,3,,,Fibre Broadband Cabinet is Live 
 ,,GRY1_019,52.669129,-6.296917,,3,,,Fibre Broadband Cabinet is Live 
 ,,GRY1_020,52.676889,-6.309388,,3,,,Fibre Broadband Cabinet is Live 
-,,GRY1_021,52.675123,-6.295667,,2,,,Fibre Broadband Cabinet is expected to go Live on 05/03/15
+,,GRY1_021,52.675123,-6.295667,,3,,,Fibre Broadband Cabinet is Live 
 ,,GRY1_E01,52.676569,-6.292629,,1,,,Fibre Broadband Cabinet is planned for this location
+,,GTS1_001,54.795665,-8.281352,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,GTS1_E01,54.797612,-8.285894,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,GVE1_001,52.045466,-8.42541,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,GVE1_E01,52.040946,-8.426343,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -3084,8 +3090,12 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,KEK1_E01,53.858547,-7.317703,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,KEY1_E01,53.869981,-8.853582,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,KGD1_001,53.459131,-7.110257,,1,,,Fibre Broadband Cabinet is planned for this location
+,,KGD1_001,53.459131,-7.110257,,1,,,Fibre Broadband Cabinet is planned for this location
+,,KGD1_002,53.451501,-7.021811,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,KGD1_002,53.451501,-7.021811,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,KGD1_003,53.453983,-7.096227,,1,,,Fibre Broadband Cabinet is planned for this location
+,,KGD1_003,53.453983,-7.096227,,1,,,Fibre Broadband Cabinet is planned for this location
+,,KGD1_004,53.4589,-7.110831,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,KGD1_004,53.4589,-7.110831,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,KGD1_E01,53.456292,-7.10291,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,KGN1_001,53.229208,-8.881512,,3,,,Fibre Broadband Cabinet is Live 
@@ -3122,7 +3132,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,KIL1_002,53.256373,-6.556697,,3,,,Fibre Broadband Cabinet is Live 
 ,,KIL1_004,53.250754,-6.585257,,3,,,Fibre Broadband Cabinet is Live 
 ,,KIL1_005,53.245532,-6.600168,,1,,,Fibre Broadband Cabinet is planned for this location
-,,KIL1_006,53.239263,-6.596493,,2,,,Fibre Broadband Cabinet is expected to go Live on 05/03/15
+,,KIL1_006,53.239263,-6.596493,,3,,,Fibre Broadband Cabinet is Live 
 ,,KIL1_007,53.25316,-6.56743,,3,,,Fibre Broadband Cabinet is Live 
 ,,KIL1_008,53.241668,-6.592957,,3,,,Fibre Broadband Cabinet is Live 
 ,,KIL1_E01,53.24101,-6.59148,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -3217,9 +3227,10 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,KLO1_007,52.813386,-8.436849,,3,,,Fibre Broadband Cabinet is Live 
 ,,KLO1_008,52.804781,-8.442712,,3,,,Fibre Broadband Cabinet is Live 
 ,,KLO1_E01,52.80287,-8.44108,,2,,,Fibre Build commenced - completion work is in progress
+,,KMA1_001,55.02767,-7.774438,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,KMA1_E01,55.032314,-7.781497,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,KME1_001,51.880728,-9.583571,,3,,,Fibre Broadband Cabinet is Live 
-,,KME1_002,51.883868,-9.588399,,2,,,Fibre Build commenced - completion work is in progress
+,,KME1_002,51.883868,-9.588399,,2,,,Fibre Broadband Cabinet is expected to go Live on 26/03/15
 ,,KME1_003,51.8779,-9.583699,,3,,,Fibre Broadband Cabinet is Live 
 ,,KME1_004,51.870173,-9.581051,,3,,,Fibre Broadband Cabinet is Live 
 ,,KME1_005,51.887363,-9.583161,,3,,,Fibre Broadband Cabinet is Live 
@@ -3295,9 +3306,9 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,KNY1_052,52.670216,-7.233702,,3,,,Fibre Broadband Cabinet is Live 
 ,,KNY1_053,52.64796306,-7.2446305,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,KNY1_054,52.646594,-7.241345,,1,,,Fibre Broadband Cabinet is planned for this location
-,,KNY1_055,52.644648,-7.261855,,1,,,Fibre Broadband Cabinet is planned for this location
-,,KNY1_056,52.650842,-7.2339424,,2,,,Fibre Build commenced - completion work is in progress
-,,KNY1_057,52.650276,-7.2325191,,2,,,Fibre Build commenced - completion work is in progress
+,,KNY1_055,52.644648,-7.261855,,2,,,Fibre Build commenced - completion work is in progress
+,,KNY1_056,52.650842,-7.2339424,,2,,,Fibre Broadband Cabinet is expected to go Live on 19/03/15
+,,KNY1_057,52.650276,-7.2325191,,2,,,Fibre Broadband Cabinet is expected to go Live on 19/03/15
 ,,KNY1_058,52.654222,-7.2552506,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,KNY1_059,53.658786,-7.250887,,2,,,Fibre Build commenced - completion work is in progress
 ,,KNY1_060,52.64953,-7.2565863,,2,,,Fibre Build commenced - completion work is in progress
@@ -3345,7 +3356,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,KSL1_007,51.70111,-8.519081,,3,,,Fibre Broadband Cabinet is Live 
 ,,KSL1_008,51.71042,-8.522868,,3,,,Fibre Broadband Cabinet is Live 
 ,,KSL1_009,51.713873,-8.521499,,3,,,Fibre Broadband Cabinet is Live 
-,,KSL1_010,51.70548,-8.530333,,2,,,Fibre Broadband Cabinet is expected to go Live on 12/03/15
+,,KSL1_010,51.70548,-8.530333,,3,,,Fibre Broadband Cabinet is Live 
 ,,KSL1_E01,51.70778,-8.52706,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,KTH1_002,53.853583,-8.995938,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,KTH1_E01,53.847908,-8.999986,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -3353,14 +3364,16 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,KTK1_013,52.178527,-8.900531,,3,,,Fibre Broadband Cabinet is Live 
 ,,KTK1_E01,52.17559,-8.9131,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,KUC1_001,53.524469,-7.096898,,1,,,Fibre Broadband Cabinet is planned for this location
+,,KUC1_001,53.524469,-7.096898,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,KUC1_002,53.507214,-7.132174,,1,,,Fibre Broadband Cabinet is planned for this location
+,,KUC1_002,53.507214,-7.132174,,1,,,Fibre Broadband Cabinet is planned for this location
+,,KUC1_003,53.50645,-7.133984,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,KUC1_003,53.50645,-7.133984,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,KUC1_E01,53.51464,-7.139379,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,KWH1_001,52.17748,-8.260798,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,KWH1_002,52.174102,-8.242232,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,KWH1_E01,52.178282,-8.243389,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,KYG1_001,54.786723,-7.690307,,1,,,Fibre Broadband Cabinet is planned for this location
-,,KYG1_002,54.796625,-7.687887,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,KYG1_E01,54.795952,-7.683447,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,LCN1_001,53.359771,-6.430214,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,LCN1_002,53.357809,-6.416365,,3,,,Fibre Broadband Cabinet is Live 
@@ -3508,7 +3521,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,LKD1_041,52.638343,-8.674008,,3,,,Fibre Broadband Cabinet is Live 
 ,,LKD1_072,52.639827,-8.644005,,3,,,Fibre Broadband Cabinet is Live 
 ,,LKD1_074,52.65552,-8.651253,,3,,,Fibre Broadband Cabinet is Live 
-,,LKD1_E01,52.62887,-8.65168,,1,,,Fibre Broadband Cabinet is planned for this location
+,,LKD1_E01,52.62887,-8.65168,,2,,,Fibre Build commenced - completion work is in progress
 ,,LKR1_E01,53.553068,-9.946944,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,LKY1_001,54.957304,-7.748278,,3,,,Fibre Broadband Cabinet is Live 
 ,,LKY1_002,54.954468,-7.745858,,3,,,Fibre Broadband Cabinet is Live 
@@ -3603,14 +3616,11 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,LMK1_053,52.661544,-8.631752,,3,,,Fibre Broadband Cabinet is Live 
 ,,LMK1_054,52.6613,-8.630375,,3,,,Fibre Broadband Cabinet is Live 
 ,,LMK1_057,52.660482,-8.626153,,3,,,Fibre Broadband Cabinet is Live 
-,,LMK1_058,52.663865,-8.628787,,2,,,Fibre Build commenced - completion work is in progress
-,,LMK1_059,52.6615,-8.625724,,3,,,Fibre Broadband Cabinet is Live 
 ,,LMK1_061,52.655639,-8.63461,,2,,,Fibre Build commenced - completion work is in progress
-,,LMK1_062,52.658172,-8.63475,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,LMK1_063,52.662312,-8.625159,,2,,,Fibre Build commenced - completion work is in progress
 ,,LMK1_064,52.662318,-8.627569,,3,,,Fibre Broadband Cabinet is Live 
-,,LMK1_065,52.659659,-8.616864,,2,,,Fibre Broadband Cabinet is expected to go Live on 25/02/15
-,,LMK1_066,52.665924,-8.621767,,2,,,Fibre Broadband Cabinet is expected to go Live on 05/03/15
+,,LMK1_065,52.659659,-8.616864,,3,,,Fibre Broadband Cabinet is Live 
+,,LMK1_066,52.665924,-8.621767,,3,,,Fibre Broadband Cabinet is Live 
 ,,LMK1_067,52.66351,-8.617609,,2,,,Fibre Build commenced - completion work is in progress
 ,,LMK1_068,52.66466,-8.623249,,3,,,Fibre Broadband Cabinet is Live 
 ,,LMK1_069,52.663239,-8.626443,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -3629,7 +3639,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,LND1_005,53.349915,-6.45042,,3,,,Fibre Broadband Cabinet is Live 
 ,,LND1_010,53.350621,-6.466478,,3,,,Fibre Broadband Cabinet is Live 
 ,,LND1_011,53.36157,-6.451676,,3,,,Fibre Broadband Cabinet is Live 
-,,LND1_012,53.363387,-6.449337,,2,,,Fibre Broadband Cabinet is expected to go Live on 05/03/15
+,,LND1_012,53.363387,-6.449337,,3,,,Fibre Broadband Cabinet is Live 
 ,,LND1_013,53.356845,-6.441225,,3,,,Fibre Broadband Cabinet is Live 
 ,,LND1_014,53.354973,-6.458176,,3,,,Fibre Broadband Cabinet is Live 
 ,,LND1_015,53.35686,-6.465516,,3,,,Fibre Broadband Cabinet is Live 
@@ -3657,7 +3667,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,LOD1_021,53.724237,-7.800036,,3,,,Fibre Broadband Cabinet is Live 
 ,,LOD1_022,53.737994,-7.80887,,3,,,Fibre Broadband Cabinet is Live 
 ,,LOD1_023,53.727895,-7.799096,,3,,,Fibre Broadband Cabinet is Live 
-,,LOD1_025,53.740505,-7.798935,,2,,,Fibre Broadband Cabinet is expected to go Live on 18/02/15
+,,LOD1_025,53.740505,-7.798935,,3,,,Fibre Broadband Cabinet is Live 
 ,,LOD1_026,53.73446,-7.780394,,3,,,Fibre Broadband Cabinet is Live 
 ,,LOD1_027,53.734443,-7.806088,,3,,,Fibre Broadband Cabinet is Live 
 ,,LOD1_028,53.755887,-7.792712,,3,,,Fibre Broadband Cabinet is Live 
@@ -3699,6 +3709,8 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,MBT1_E01,53.039463,-7.298913,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,MBT1_E01,53.039463,-7.298913,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,MCH1_E01,54.649571,-8.201282,,1,,,Fibre Broadband Cabinet is planned for this location
+,,MCM1_001,54.939245,-7.633426,,1,,,Fibre Broadband Cabinet is planned for this location
+,,MCM1_002,54.954655,-7.619962,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,MDN1_001,51.902537,-8.167145,,3,,,Fibre Broadband Cabinet is Live 
 ,,MDN1_002,51.914183,-8.187894,,3,,,Fibre Broadband Cabinet is Live 
 ,,MDN1_003,51.914442,-8.179413,,3,,,Fibre Broadband Cabinet is Live 
@@ -3752,7 +3764,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,MGN1_027,54.242439,-6.982034,,3,,,Fibre Broadband Cabinet is Live 
 ,,MGN1_028,54.250116,-6.969143,,3,,,Fibre Broadband Cabinet is Live 
 ,,MGN1_029,54.250196,-6.97567,,3,,,Fibre Broadband Cabinet is Live 
-,,MGN1_E01,54.24799,-6.971467,,1,,,Fibre Broadband Cabinet is planned for this location
+,,MGN1_E01,54.24799,-6.971467,,2,,,Fibre Build commenced - completion work is in progress
 ,,MGR1_001,53.52887,-7.32824,,3,,,Fibre Broadband Cabinet is Live 
 ,,MGR1_002,53.525603,-7.320778,,3,,,Fibre Broadband Cabinet is Live 
 ,,MGR1_003,53.519552,-7.334182,,3,,,Fibre Broadband Cabinet is Live 
@@ -3814,12 +3826,15 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,MHZ1_030,53.452612,-6.197112,,3,,,Fibre Broadband Cabinet is Live 
 ,,MHZ1_035,53.444693,-6.139266,,3,,,Fibre Broadband Cabinet is Live 
 ,,MHZ1_040,53.453107,-6.202222,,3,,,Fibre Broadband Cabinet is Live 
+,,MHZ1_043,53.449254,-6.163672,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,MHZ1_E01,53.450816,-6.152043,,2,,,Fibre Build commenced - completion work is in progress
 ,,MIL1_001,53.614577,-8.899946,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,MIL1_002,53.61575,-8.900604,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,MIL1_E01,53.60024,-8.883603,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,MLE1_001,55.192325,-7.045245,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,MLE1_E01,55.189746,-7.040047,,1,,,Fibre Broadband Cabinet is planned for this location
+,,MLF1_001,55.090682,-7.702871,,1,,,Fibre Broadband Cabinet is planned for this location
+,,MLF1_002,55.084079,-7.690988,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,MLH1_001,53.811594,-6.944033,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,MLH1_E01,53.812721,-6.949067,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,MLW1_001,52.129861,-8.664471,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -3983,7 +3998,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,MVW1_035,53.289016,-9.014853,,2,,,Fibre Build commenced - completion work is in progress
 ,,MVW1_036,53.28497,-9.025726,,3,,,Fibre Broadband Cabinet is Live 
 ,,MVW1_037,53.2992,-8.987455,,3,,,Fibre Broadband Cabinet is Live 
-,,MVW1_038,53.283937,-8.982224,,2,,,Fibre Build commenced - completion work is in progress
+,,MVW1_038,53.283937,-8.982224,,2,,,Fibre Broadband Cabinet is expected to go Live on 08/04/15
 ,,MVW1_039,53.298295,-9.010022,,3,,,Fibre Broadband Cabinet is Live 
 ,,MVW1_040,53.273148,-9.000283,,3,,,Fibre Broadband Cabinet is Live 
 ,,MVW1_041,53.285657,-8.983017,,3,,,Fibre Broadband Cabinet is Live 
@@ -4042,7 +4057,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,NAS1_019,53.213327,-6.663419,,3,,,Fibre Broadband Cabinet is Live 
 ,,NAS1_020,53.239054,-6.665098,,3,,,Fibre Broadband Cabinet is Live 
 ,,NAS1_021,53.228641,-6.644938,,3,,,Fibre Broadband Cabinet is Live 
-,,NAS1_022,53.232412,-6.642465,,2,,,Fibre Build commenced - completion work is in progress
+,,NAS1_022,53.232412,-6.642465,,2,,,Fibre Broadband Cabinet is expected to go Live on 19/03/15
 ,,NAS1_023,53.220899,-6.661334,,3,,,Fibre Broadband Cabinet is Live 
 ,,NAS1_024,53.219622,-6.661363,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,NAS1_025,53.218036,-6.659754,,3,,,Fibre Broadband Cabinet is Live 
@@ -4095,7 +4110,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,NMK1_011,53.093582,-6.100728,,3,,,Fibre Broadband Cabinet is Live 
 ,,NMK1_012,53.110352,-6.104599,,3,,,Fibre Broadband Cabinet is Live 
 ,,NMK1_013,53.105922,-6.060779,,3,,,Fibre Broadband Cabinet is Live 
-,,NMK1_014,53.089208,-6.110407,,2,,,Fibre Build commenced - completion work is in progress
+,,NMK1_014,53.089208,-6.110407,,2,,,Fibre Broadband Cabinet is expected to go Live on 19/03/15
 ,,NMK1_015,53.086377,-6.105747,,3,,,Fibre Broadband Cabinet is Live 
 ,,NMK1_016,53.085122,-6.107875,,3,,,Fibre Broadband Cabinet is Live 
 ,,NMK1_018,53.100916,-6.07238,,3,,,Fibre Broadband Cabinet is Live 
@@ -4214,7 +4229,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,NTW1_001,53.454708,-6.92245,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,NUT1_001,53.328963,-6.212118,,3,,,Fibre Broadband Cabinet is Live 
 ,,NUT1_002,53.330944,-6.215536,,3,,,Fibre Broadband Cabinet is Live 
-,,NUT1_003,53.329357,-6.215279,,2,,,Fibre Build commenced - completion work is in progress
+,,NUT1_003,53.329357,-6.215279,,2,,,Fibre Broadband Cabinet is expected to go Live on 01/04/15
 ,,NUT1_004,53.32566,-6.213635,,3,,,Fibre Broadband Cabinet is Live 
 ,,NUT1_005,53.324018,-6.21166,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,NUT1_006,53.319939,-6.206306,,2,,,Fibre Build commenced - completion work is in progress
@@ -4235,7 +4250,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,NUT1_027,53.316357,-6.237787,,3,,,Fibre Broadband Cabinet is Live 
 ,,NUT1_028,53.318322,-6.241589,,3,,,Fibre Broadband Cabinet is Live 
 ,,NUT1_031,53.311567,-6.238782,,3,,,Fibre Broadband Cabinet is Live 
-,,NUT1_032,53.309167,-6.237375,,2,,,Fibre Build commenced - completion work is in progress
+,,NUT1_032,53.309167,-6.237375,,2,,,Fibre Broadband Cabinet is expected to go Live on 26/03/15
 ,,NUT1_033,53.305293,-6.242554,,3,,,Fibre Broadband Cabinet is Live 
 ,,NUT1_034,53.305581,-6.237029,,3,,,Fibre Broadband Cabinet is Live 
 ,,NUT1_036,53.310021,-6.215848,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -4267,7 +4282,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,NWL1_013,53.317942,-6.371652,,3,,,Fibre Broadband Cabinet is Live 
 ,,NWL1_014,53.30123,-6.421727,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,NWL1_016,53.322101,-6.382187,,1,,,Fibre Broadband Cabinet is planned for this location
-,,NWL1_017,53.311513,-6.389276,,2,,,Fibre Build commenced - completion work is in progress
+,,NWL1_017,53.311513,-6.389276,,2,,,Fibre Broadband Cabinet is expected to go Live on 26/03/15
 ,,NWL1_018,53.318542,-6.376771,,3,,,Fibre Broadband Cabinet is Live 
 ,,NWL1_019,53.317931,-6.364708,,3,,,Fibre Broadband Cabinet is Live 
 ,,NWL1_020,53.307823,-6.406458,,3,,,Fibre Broadband Cabinet is Live 
@@ -4284,7 +4299,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,NWT1_003,52.449182,-9.05848,,2,,,Fibre Build commenced - completion work is in progress
 ,,NWT1_004,52.447951,-9.054246,,2,,,Fibre Build commenced - completion work is in progress
 ,,NWT1_005,52.449253,-9.049272,,3,,,Fibre Broadband Cabinet is Live 
-,,NWT1_006,52.455837,-9.066024,,2,,,Fibre Broadband Cabinet is expected to go Live on 06/08/14
+,,NWT1_006,52.455837,-9.066024,,3,,,Fibre Broadband Cabinet is Live 
 ,,NWT1_007,52.446258,-9.069286,,2,,,Fibre Build commenced - completion work is in progress
 ,,NWT1_008,52.450916,-9.052893,,3,,,Fibre Broadband Cabinet is Live 
 ,,NWT1_009,52.453024,-9.058344,,3,,,Fibre Broadband Cabinet is Live 
@@ -4351,7 +4366,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,PAL1_035,53.34154,-6.402755,,3,,,Fibre Broadband Cabinet is Live 
 ,,PAL1_037,53.338928,-6.373969,,3,,,Fibre Broadband Cabinet is Live 
 ,,PAL1_039,53.348792,-6.398049,,3,,,Fibre Broadband Cabinet is Live 
-,,PAL1_040,53.351131,-6.401518,,2,,,Fibre Build commenced - completion work is in progress
+,,PAL1_040,53.351131,-6.401518,,2,,,Fibre Broadband Cabinet is expected to go Live on 08/04/15
 ,,PAL1_042,53.34604,-6.37176,,3,,,Fibre Broadband Cabinet is Live 
 ,,PAL1_043,53.347455,-6.379276,,3,,,Fibre Broadband Cabinet is Live 
 ,,PAL1_045,53.341168,-6.337827,,3,,,Fibre Broadband Cabinet is Live 
@@ -4417,7 +4432,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,PGS1_014,53.034251,-7.298602,,3,,,Fibre Broadband Cabinet is Live 
 ,,PGS1_015,53.040369,-7.308898,,3,,,Fibre Broadband Cabinet is Live 
 ,,PGS1_016,53.032234,-7.301538,,3,,,Fibre Broadband Cabinet is Live 
-,,PGS1_017,53.034622,-7.291338,,2,,,Fibre Build commenced - completion work is in progress
+,,PGS1_017,53.034622,-7.291338,,2,,,Fibre Broadband Cabinet is expected to go Live on 08/04/15
 ,,PGS1_018,53.027057,-7.314927,,3,,,Fibre Broadband Cabinet is Live 
 ,,PGS1_019,53.026521,-7.311474,,3,,,Fibre Broadband Cabinet is Live 
 ,,PGS1_020,53.031305,-7.260668,,3,,,Fibre Broadband Cabinet is Live 
@@ -4465,7 +4480,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,PHB1_023,53.36371,-6.270244,,3,,,Fibre Broadband Cabinet is Live 
 ,,PHB1_024,53.359945,-6.263963,,3,,,Fibre Broadband Cabinet is Live 
 ,,PHB1_025,53.362517,-6.261611,,3,,,Fibre Broadband Cabinet is Live 
-,,PHB1_026,53.365537,-6.262144,,2,,,Fibre Broadband Cabinet is expected to go Live on 05/03/15
+,,PHB1_026,53.365537,-6.262144,,3,,,Fibre Broadband Cabinet is Live 
 ,,PHB1_030,53.355959,-6.267809,,3,,,Fibre Broadband Cabinet is Live 
 ,,PHB1_032,53.361024,-6.271762,,3,,,Fibre Broadband Cabinet is Live 
 ,,PHB1_042,53.360792,-6.261437,,3,,,Fibre Broadband Cabinet is Live 
@@ -4517,26 +4532,26 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,PRP1_009,53.30122,-6.225646,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_010,53.293073,-6.196512,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_011,53.29223,-6.201669,,3,,,Fibre Broadband Cabinet is Live 
-,,PRP1_012,53.290135,-6.199622,,2,,,Fibre Build commenced - completion work is in progress
+,,PRP1_012,53.290135,-6.199622,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_013,53.288397,-6.202823,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_014,53.287174,-6.176347,,3,,,Fibre Broadband Cabinet is Live 
-,,PRP1_015,53.28812,-6.203721,,2,,,Fibre Build commenced - completion work is in progress
+,,PRP1_015,53.28812,-6.203721,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_016,53.293861,-6.203105,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_017,53.296899,-6.210779,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_018,53.292866,-6.208765,,3,,,Fibre Broadband Cabinet is Live 
-,,PRP1_019,53.293744,-6.210916,,2,,,Fibre Build commenced - completion work is in progress
+,,PRP1_019,53.293744,-6.210916,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_020,53.290495,-6.209612,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_021,53.297878,-6.204691,,3,,,Fibre Broadband Cabinet is Live 
-,,PRP1_023,53.298019,-6.19924,,2,,,Fibre Build commenced - completion work is in progress
+,,PRP1_023,53.298019,-6.19924,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_024,53.290713,-6.172387,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,PRP1_025,53.284629,-6.177906,,3,,,Fibre Broadband Cabinet is Live 
-,,PRP1_027,53.281358,-6.181498,,2,,,Fibre Build commenced - completion work is in progress
+,,PRP1_027,53.281358,-6.181498,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_028,53.284938,-6.208765,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_029,53.288194,-6.207992,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_030,53.288888,-6.216525,,3,,,Fibre Broadband Cabinet is Live 
-,,PRP1_031,53.284351,-6.21601,,2,,,Fibre Build commenced - completion work is in progress
+,,PRP1_031,53.284351,-6.21601,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_032,53.279718,-6.18744,,3,,,Fibre Broadband Cabinet is Live 
-,,PRP1_033,53.283447,-6.21607,,1,,,Fibre Broadband Cabinet is planned for this location
+,,PRP1_033,53.283447,-6.21607,,1,,,Fibre Broadband Cabinet is expected to go Live on 19/03/15
 ,,PRP1_034,53.297351,-6.180281,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_035,53.297349,-6.180356,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_036,53.288095,-6.196173,,3,,,Fibre Broadband Cabinet is Live 
@@ -4544,36 +4559,36 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,PRP1_038,53.307515,-6.197094,,2,,,Fibre Build commenced - completion work is in progress
 ,,PRP1_039,53.309014,-6.196952,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,PRP1_040,53.301454,-6.185398,,2,,,Fibre Broadband Cabinet is expected to go Live on 07/01/15
-,,PRP1_041,53.298365,-6.182395,,2,,,Fibre Build commenced - completion work is in progress
+,,PRP1_041,53.298365,-6.182395,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_042,53.297339,-6.183142,,2,,,Fibre Broadband Cabinet is expected to go Live on 07/01/15
 ,,PRP1_043,53.28751,-6.196165,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_044,53.285023,-6.195261,,3,,,Fibre Broadband Cabinet is Live 
-,,PRP1_045,53.299513,-6.192223,,1,,,Fibre Broadband Cabinet is planned for this location
-,,PRP1_046,53.298105,-6.196611,,2,,,Fibre Build commenced - completion work is in progress
-,,PRP1_047,53.297269,-6.200172,,2,,,Fibre Build commenced - completion work is in progress
-,,PRP1_048,53.30184,-6.1931,,2,,,Fibre Build commenced - completion work is in progress
+,,PRP1_045,53.299513,-6.192223,,2,,,Fibre Build commenced - completion work is in progress
+,,PRP1_046,53.298105,-6.196611,,3,,,Fibre Broadband Cabinet is Live 
+,,PRP1_047,53.297269,-6.200172,,3,,,Fibre Broadband Cabinet is Live 
+,,PRP1_048,53.30184,-6.1931,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_049,53.299655,-6.204313,,3,,,Fibre Broadband Cabinet is Live 
-,,PRP1_050,53.295741,-6.189511,,2,,,Fibre Build commenced - completion work is in progress
+,,PRP1_050,53.295741,-6.189511,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_051,53.290739,-6.172345,,1,,,Fibre Broadband Cabinet is planned for this location
-,,PRP1_052,53.27912,-6.196811,,2,,,Fibre Build commenced - completion work is in progress
+,,PRP1_052,53.27912,-6.196811,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_053,53.282405,-6.194737,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_054,53.300261,-6.201356,,3,,,Fibre Broadband Cabinet is Live 
-,,PRP1_055,53.292899,-6.179913,,2,,,Fibre Build commenced - completion work is in progress
+,,PRP1_055,53.292899,-6.179913,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_057,53.295039,-6.220196,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_058,53.295987,-6.219637,,3,,,Fibre Broadband Cabinet is Live 
-,,PRP1_059,53.289949,-6.180308,,2,,,Fibre Build commenced - completion work is in progress
-,,PRP1_060,53.301835,-6.228467,,2,,,Fibre Build commenced - completion work is in progress
-,,PRP1_062,53.290911,-6.191829,,1,,,Fibre Broadband Cabinet is planned for this location
-,,PRP1_063,53.295361,-6.194072,,2,,,Fibre Build commenced - completion work is in progress
+,,PRP1_059,53.289949,-6.180308,,3,,,Fibre Broadband Cabinet is Live 
+,,PRP1_060,53.301835,-6.228467,,3,,,Fibre Broadband Cabinet is Live 
+,,PRP1_062,53.290911,-6.191829,,2,,,Fibre Build commenced - completion work is in progress
+,,PRP1_063,53.295361,-6.194072,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_064,53.296904,-6.2126,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_065,53.289111,-6.190434,,1,,,Fibre Broadband Cabinet is planned for this location
-,,PRP1_067,53.279695,-6.187386,,2,,,Fibre Build commenced - completion work is in progress
-,,PRP1_069,53.302238,-6.200453,,2,,,Fibre Broadband Cabinet is expected to go Live on 05/03/15
+,,PRP1_067,53.279695,-6.187386,,3,,,Fibre Broadband Cabinet is Live 
+,,PRP1_069,53.302238,-6.200453,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_070,53.28514,-6.219773,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_077,53.293059,-6.193944,,3,,,Fibre Broadband Cabinet is Live 
-,,PRP1_078,53.292221,-6.193785,,2,,,Fibre Build commenced - completion work is in progress
+,,PRP1_078,53.292221,-6.193785,,2,,,Fibre Broadband Cabinet is expected to go Live on 26/03/15
 ,,PRP1_104,53.291775,-6.183224,,3,,,Fibre Broadband Cabinet is Live 
-,,PRP1_105,53.289202,-6.183666,,1,,,Fibre Broadband Cabinet is planned for this location
+,,PRP1_105,53.289202,-6.183666,,2,,,Fibre Build commenced - completion work is in progress
 ,,PRP1_106,53.294295,-6.179802,,3,,,Fibre Broadband Cabinet is Live 
 ,,PRP1_107,53.282109,-6.192171,,2,,,Fibre Build commenced - completion work is in progress
 ,,PRP1_108,53.282139,-6.192208,,2,,,Fibre Build commenced - completion work is in progress
@@ -4699,7 +4714,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,RCM1_013,53.635207,-8.177175,,3,,,Fibre Broadband Cabinet is Live 
 ,,RCM1_015,53.642058,-8.211493,,3,,,Fibre Broadband Cabinet is Live 
 ,,RCM1_016,53.619038,-8.200621,,3,,,Fibre Broadband Cabinet is Live 
-,,RCM1_E01,53.630969,-8.192147,,1,,,Fibre Broadband Cabinet is planned for this location
+,,RCM1_E01,53.630969,-8.192147,,2,,,Fibre Build commenced - completion work is in progress
 ,,RCS1_E01,53.465256,-9.720787,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,RCY1_001,51.572012,-9.005592,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,RCY1_E01,51.577858,-9.031048,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -4788,6 +4803,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,RMS1_111,53.329165,-6.265264,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,RMS1_112,53.325362,-6.267307,,3,,,Fibre Broadband Cabinet is Live 
 ,,RMS1_E01,53.321397,-6.265581,,1,,,Fibre Broadband Cabinet is planned for this location
+,,RMT1_002,55.037177,-7.654391,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,RNV1_E01,54.385097,-8.108487,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,ROC1_001,53.2746,-6.108991,,3,,,Fibre Broadband Cabinet is Live 
 ,,ROC1_002,53.278285,-6.107289,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -4880,7 +4896,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,RSL1_036,53.43239,-7.943433,,3,,,Fibre Broadband Cabinet is Live 
 ,,RSL1_037,53.431935,-7.937128,,3,,,Fibre Broadband Cabinet is Live 
 ,,RSL1_038,53.429004,-7.939486,,3,,,Fibre Broadband Cabinet is Live 
-,,RSL1_040,53.419895,-7.928236,,2,,,Fibre Broadband Cabinet is expected to go Live on 12/03/15
+,,RSL1_040,53.419895,-7.928236,,3,,,Fibre Broadband Cabinet is Live 
 ,,RSL1_041,53.417998,-7.908808,,3,,,Fibre Broadband Cabinet is Live 
 ,,RSL1_042,53.421965,-7.909465,,3,,,Fibre Broadband Cabinet is Live 
 ,,RSL1_043,53.42551,-7.934614,,3,,,Fibre Broadband Cabinet is Live 
@@ -4987,7 +5003,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,RUY1_001,53.831888,-7.917514,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,RUY1_002,53.857762,-7.919244,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,RUY1_003,53.82936,-7.929472,,1,,,Fibre Broadband Cabinet is planned for this location
-,,RUY1_004,53.855232,-7.91878,,2,,,Fibre Build commenced - completion work is in progress
+,,RUY1_004,53.855232,-7.91878,,2,,,Fibre Broadband Cabinet is expected to go Live on 19/03/15
 ,,RUY1_E01,53.831037,-7.928667,,2,,,Fibre Build commenced - completion work is in progress
 ,,RWD1_005,53.067388,-6.223406,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,RWD1_E01,53.063231,-6.224464,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -5004,7 +5020,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,SAN1_011,53.390451,-6.269853,,3,,,Fibre Broadband Cabinet is Live 
 ,,SAN1_012,53.389629,-6.270728,,3,,,Fibre Broadband Cabinet is Live 
 ,,SAN1_013,53.389758,-6.264193,,1,,,Fibre Broadband Cabinet is planned for this location
-,,SAN1_016,53.404958,-6.251685,,1,,,Fibre Broadband Cabinet is planned for this location
+,,SAN1_016,53.404958,-6.251685,,2,,,Fibre Build commenced - completion work is in progress
 ,,SAN1_019,53.397687,-6.251877,,3,,,Fibre Broadband Cabinet is Live 
 ,,SAN1_021,53.396131,-6.244684,,3,,,Fibre Broadband Cabinet is Live 
 ,,SAN1_024,53.400946,-6.243072,,3,,,Fibre Broadband Cabinet is Live 
@@ -5062,7 +5078,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,SAN1_121,53.402948,-6.273429,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,SAN1_123,53.396851,-6.263542,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,SAN1_124,53.392386,-6.256215,,3,,,Fibre Broadband Cabinet is Live 
-,,SAN1_125,53.404683,-6.25299,,1,,,Fibre Broadband Cabinet is planned for this location
+,,SAN1_125,53.404683,-6.25299,,2,,,Fibre Build commenced - completion work is in progress
 ,,SAN1_126,53.394411,-6.256495,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,SAN1_E01,53.397987,-6.250094,,2,,,Fibre Build commenced - completion work is in progress
 ,,SAP1_002,52.697317,-8.902466,,3,,,Fibre Broadband Cabinet is Live 
@@ -5190,7 +5206,6 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,SKL1_004,53.244973,-6.135602,,3,,,Fibre Broadband Cabinet is Live 
 ,,SKL1_005,53.240651,-6.129865,,3,,,Fibre Broadband Cabinet is Live 
 ,,SKL1_006,53.228624,-6.12386,,2,,,Fibre Build commenced - completion work is in progress
-,,SKL1_007,53.231763,-6.127248,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,SKL1_008,53.248993,-6.135212,,3,,,Fibre Broadband Cabinet is Live 
 ,,SKL1_009,53.249119,-6.134492,,2,,,Fibre Build commenced - completion work is in progress
 ,,SKL1_011,53.236556,-6.122574,,3,,,Fibre Broadband Cabinet is Live 
@@ -5239,7 +5254,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,SKS1_015,53.581195,-6.133623,,3,,,Fibre Broadband Cabinet is Live 
 ,,SKS1_016,53.580693,-6.115681,,3,,,Fibre Broadband Cabinet is Live 
 ,,SKS1_017,53.583079,-6.136903,,3,,,Fibre Broadband Cabinet is Live 
-,,SKS1_E01,53.574961,-6.112953,,1,,,Fibre Broadband Cabinet is planned for this location
+,,SKS1_E01,53.574961,-6.112953,,2,,,Fibre Build commenced - completion work is in progress
 ,,SLA1_001,53.266257,-9.063893,,3,,,Fibre Broadband Cabinet is Live 
 ,,SLA1_002,53.26322,-9.106333,,3,,,Fibre Broadband Cabinet is Live 
 ,,SLA1_003,53.260594,-9.101278,,3,,,Fibre Broadband Cabinet is Live 
@@ -5291,7 +5306,6 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,SLA1_054,53.267553,-9.060271,,2,,,Fibre Build commenced - completion work is in progress
 ,,SLA1_057,53.264336,-9.1011,,3,,,Fibre Broadband Cabinet is Live 
 ,,SLE1_001,53.711814,-6.5657,,1,,,Fibre Broadband Cabinet is planned for this location
-,,SLE1_002,53.711265,-6.554543,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,SLE1_E01,53.709285,-6.548115,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,SLS1_001,53.249279,-6.664785,,3,,,Fibre Broadband Cabinet is Live 
 ,,SLS1_002,53.236583,-6.666551,,3,,,Fibre Broadband Cabinet is Live 
@@ -5347,7 +5361,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,SNH1_019,53.275798,-6.213491,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,SNH1_020,53.274596,-6.20701,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,SNH1_021,53.277577,-6.219156,,2,,,Fibre Build commenced - completion work is in progress
-,,SNH1_022,53.27499,-6.205974,,2,,,Fibre Broadband Cabinet is expected to go Live on 05/03/15
+,,SNH1_022,53.27499,-6.205974,,3,,,Fibre Broadband Cabinet is Live 
 ,,SNH1_023,53.277515,-6.20538,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,SNH1_024,53.279012,-6.2166,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,SNH1_025,53.276819,-6.207437,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -5428,7 +5442,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,SRD1_126,53.444411,-6.231993,,3,,,Fibre Broadband Cabinet is Live 
 ,,SRD1_127,53.447315,-6.244577,,3,,,Fibre Broadband Cabinet is Live 
 ,,SRD1_128,53.442719,-6.214203,,3,,,Fibre Broadband Cabinet is Live 
-,,SRD1_129,53.442573,-6.214215,,2,,,Fibre Build commenced - completion work is in progress
+,,SRD1_129,53.442573,-6.214215,,2,,,Fibre Broadband Cabinet is expected to go Live on 26/03/15
 ,,SRD1_130,53.443405,-6.195481,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,SRD1_131,53.480825,-6.203324,,3,,,Fibre Broadband Cabinet is Live 
 ,,SRD1_134,53.448394,-6.245928,,2,,,Fibre Build commenced - completion work is in progress
@@ -5447,7 +5461,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,SRL1_002,53.357774,-6.252696,,2,,,Fibre Build commenced - completion work is in progress
 ,,SRL1_003,53.353175,-6.254721,,2,,,Fibre Build commenced - completion work is in progress
 ,,SRL1_004,53.351857,-6.253502,,1,,,Fibre Broadband Cabinet is planned for this location
-,,SRL1_005,53.361496,-6.2424,,1,,,Fibre Broadband Cabinet is planned for this location
+,,SRL1_005,53.361496,-6.2424,,2,,,Fibre Build commenced - completion work is in progress
 ,,SRL1_006,53.359425,-6.244273,,3,,,Fibre Broadband Cabinet is Live 
 ,,SRL1_007,53.357765,-6.250888,,2,,,Fibre Build commenced - completion work is in progress
 ,,SRL1_008,53.350597,-6.251378,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -5653,7 +5667,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,TLH1_104,53.307566,-6.369438,,3,,,Fibre Broadband Cabinet is Live 
 ,,TLH1_105,53.294438,-6.347876,,3,,,Fibre Broadband Cabinet is Live 
 ,,TLH1_106,53.28648,-6.360825,,3,,,Fibre Broadband Cabinet is Live 
-,,TLH1_107,53.289999,-6.369954,,2,,,Fibre Build commenced - completion work is in progress
+,,TLH1_107,53.289999,-6.369954,,2,,,Fibre Broadband Cabinet is expected to go Live on 26/03/15
 ,,TLH1_108,53.287025,-6.368494,,3,,,Fibre Broadband Cabinet is Live 
 ,,TLH1_109,53.289948,-6.357764,,3,,,Fibre Broadband Cabinet is Live 
 ,,TLH1_110,53.287624,-6.367015,,3,,,Fibre Broadband Cabinet is Live 
@@ -5741,7 +5755,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,TLT1_014,53.432227,-6.377104,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,TLW1_001,52.804309,-6.744383,,3,,,Fibre Broadband Cabinet is Live 
 ,,TLW1_002,52.802105,-6.727597,,3,,,Fibre Broadband Cabinet is Live 
-,,TLW1_003,52.799837,-6.733507,,2,,,Fibre Broadband Cabinet is expected to go Live on 18/02/15
+,,TLW1_003,52.799837,-6.733507,,3,,,Fibre Broadband Cabinet is Live 
 ,,TLW1_004,52.808468,-6.725703,,3,,,Fibre Broadband Cabinet is Live 
 ,,TLW1_005,52.81062,-6.725913,,2,,,Fibre Build commenced - completion work is in progress
 ,,TLW1_006,52.804804,-6.727304,,3,,,Fibre Broadband Cabinet is Live 
@@ -5781,9 +5795,9 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,TPR1_E01,52.47596,-8.16252,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,TRE1_003,53.295704,-6.313761,,3,,,Fibre Broadband Cabinet is Live 
 ,,TRE1_004,53.299905,-6.284284,,3,,,Fibre Broadband Cabinet is Live 
-,,TRE1_005,53.303656,-6.282893,,1,,,Fibre Broadband Cabinet is planned for this location
+,,TRE1_005,53.303656,-6.282893,,2,,,Fibre Build commenced - completion work is in progress
 ,,TRE1_006,53.31251396,-6.301519,,2,,,Fibre Build commenced - completion work is in progress
-,,TRE1_007,53.30006106,-6.28323986,,1,,,Fibre Broadband Cabinet is planned for this location
+,,TRE1_007,53.30006106,-6.28323986,,2,,,Fibre Build commenced - completion work is in progress
 ,,TRE1_008,53.307259,-6.283378,,2,,,Fibre Build commenced - completion work is in progress
 ,,TRE1_009,53.310608,-6.290188,,3,,,Fibre Broadband Cabinet is Live 
 ,,TRE1_010,53.311741,-6.295358,,3,,,Fibre Broadband Cabinet is Live 
@@ -5816,7 +5830,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,TRE1_044,53.305329,-6.265714,,2,,,Fibre Build commenced - completion work is in progress
 ,,TRE1_045,53.309755,-6.273125,,3,,,Fibre Broadband Cabinet is Live 
 ,,TRE1_046,53.310817,-6.273538,,1,,,Fibre Broadband Cabinet is planned for this location
-,,TRE1_047,53.302748,-6.271885,,1,,,Fibre Broadband Cabinet is planned for this location
+,,TRE1_047,53.302748,-6.271885,,2,,,Fibre Build commenced - completion work is in progress
 ,,TRE1_049,53.309065,-6.283513,,3,,,Fibre Broadband Cabinet is Live 
 ,,TRE1_050,53.316163,-6.281309,,3,,,Fibre Broadband Cabinet is Live 
 ,,TRE1_051,53.306195,-6.307511,,3,,,Fibre Broadband Cabinet is Live 
@@ -5834,7 +5848,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,TRM1_002,53.561985,-6.790363,,3,,,Fibre Broadband Cabinet is Live 
 ,,TRM1_003,53.549383,-6.793795,,3,,,Fibre Broadband Cabinet is Live 
 ,,TRM1_004,53.557603,-6.784517,,1,,,Fibre Broadband Cabinet is planned for this location
-,,TRM1_005,53.563497,-6.797906,,2,,,Fibre Build commenced - completion work is in progress
+,,TRM1_005,53.563497,-6.797906,,2,,,Fibre Broadband Cabinet is expected to go Live on 01/04/15
 ,,TRM1_006,53.560887,-6.769554,,3,,,Fibre Broadband Cabinet is Live 
 ,,TRM1_007,53.557628,-6.782742,,3,,,Fibre Broadband Cabinet is Live 
 ,,TRM1_008,53.554149,-6.768294,,3,,,Fibre Broadband Cabinet is Live 
@@ -6000,7 +6014,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,VGA1_E01,53.83746433,-7.087243799,,2,,,Fibre Build commenced - completion work is in progress
 ,,WAL1_001,53.320112,-6.335966,,3,,,Fibre Broadband Cabinet is Live 
 ,,WAL1_002,53.318617,-6.326729,,3,,,Fibre Broadband Cabinet is Live 
-,,WAL1_003,53.327376,-6.352771,,1,,,Fibre Broadband Cabinet is planned for this location
+,,WAL1_003,53.327376,-6.352771,,2,,,Fibre Build commenced - completion work is in progress
 ,,WAL1_004,53.331182,-6.347962,,3,,,Fibre Broadband Cabinet is Live 
 ,,WAL1_005,53.329924,-6.333935,,3,,,Fibre Broadband Cabinet is Live 
 ,,WAL1_006,53.320852,-6.324919,,3,,,Fibre Broadband Cabinet is Live 
@@ -6010,7 +6024,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,WAL1_010,53.317541,-6.346334,,3,,,Fibre Broadband Cabinet is Live 
 ,,WAL1_011,53.313169,-6.328328,,3,,,Fibre Broadband Cabinet is Live 
 ,,WAL1_012,53.328151,-6.336574,,3,,,Fibre Broadband Cabinet is Live 
-,,WAL1_013,53.324124,-6.329953,,2,,,Fibre Broadband Cabinet is expected to go Live on 05/03/15
+,,WAL1_013,53.324124,-6.329953,,3,,,Fibre Broadband Cabinet is Live 
 ,,WAL1_014,53.323695,-6.345913,,3,,,Fibre Broadband Cabinet is Live 
 ,,WAL1_015,53.327694,-6.35894,,3,,,Fibre Broadband Cabinet is Live 
 ,,WAL1_016,53.3235,-6.341475,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -6032,9 +6046,9 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,WAL1_035,53.312711,-6.358882,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,WAL1_037,53.299441,-6.322714,,3,,,Fibre Broadband Cabinet is Live 
 ,,WAL1_039,53.314652,-6.347174,,3,,,Fibre Broadband Cabinet is Live 
-,,WAL1_040,53.316211,-6.341569,,1,,,Fibre Broadband Cabinet is planned for this location
+,,WAL1_040,53.316211,-6.341569,,2,,,Fibre Build commenced - completion work is in progress
 ,,WAL1_041,53.327474,-6.354263,,1,,,Fibre Broadband Cabinet is planned for this location
-,,WAL1_042,53.326564,-6.345708,,2,,,Fibre Broadband Cabinet is expected to go Live on 05/03/15
+,,WAL1_042,53.326564,-6.345708,,3,,,Fibre Broadband Cabinet is Live 
 ,,WAL1_043,53.330528,-6.350837,,3,,,Fibre Broadband Cabinet is Live 
 ,,WAL1_044,53.32027,-6.32853,,3,,,Fibre Broadband Cabinet is Live 
 ,,WAL1_047,53.313113,-6.330656,,3,,,Fibre Broadband Cabinet is Live 
@@ -6045,11 +6059,11 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,WAL1_053,53.315565,-6.348445,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,WAL1_054,53.310246,-6.353898,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,WAL1_061,53.314449,-6.347442,,1,,,Fibre Broadband Cabinet is planned for this location
-,,WAL1_062,53.312479,-6.36075,,1,,,Fibre Broadband Cabinet is planned for this location
+,,WAL1_062,53.312479,-6.36075,,2,,,Fibre Build commenced - completion work is in progress
 ,,WAL1_065,53.331169,-6.348019,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,WAL1_067,53.3273,-6.369812,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,WAL1_068,53.316553,-6.321783,,1,,,Fibre Broadband Cabinet is planned for this location
-,,WAL1_101,53.3266,-6.345723,,2,,,Fibre Broadband Cabinet is expected to go Live on 05/03/15
+,,WAL1_101,53.3266,-6.345723,,3,,,Fibre Broadband Cabinet is Live 
 ,,WAL1_102,53.31164,-6.348623,,3,,,Fibre Broadband Cabinet is Live 
 ,,WAL1_103,53.323584,-6.338293,,2,,,Fibre Build commenced - completion work is in progress
 ,,WAL1_104,53.329471,-6.333015,,3,,,Fibre Broadband Cabinet is Live 
@@ -6075,7 +6089,6 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,WAL1_142,53.302228,-6.327225,,3,,,Fibre Broadband Cabinet is Live 
 ,,WAL1_E01,53.317664,-6.33225,,2,,,Fibre Build commenced - completion work is in progress
 ,,WFA1_001,51.85702,-8.554708,,3,,,Fibre Broadband Cabinet is Live 
-,,WGL1_001,52.010301,-8.345149,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,WGL1_002,52.012805,-8.337424,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,WGL1_E01,52.012876,-8.341966,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,WGT1_E01,51.827135,-8.228178,,1,,,Fibre Broadband Cabinet is planned for this location
@@ -6201,7 +6214,7 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,WST1_011,53.797755,-9.512138,,3,,,Fibre Broadband Cabinet is Live 
 ,,WST1_012,53.800016,-9.549322,,2,,,Fibre Build commenced - completion work is in progress
 ,,WST1_019,53.794333,-9.504035,,3,,,Fibre Broadband Cabinet is Live 
-,,WST1_E01,53.80035115,-9.519401105,,1,,,Fibre Broadband Cabinet is planned for this location
+,,WST1_E01,53.80035115,-9.519401105,,2,,,Fibre Build commenced - completion work is in progress
 ,,WTD1_001,52.264326,-7.120546,,3,,,Fibre Broadband Cabinet is Live 
 ,,WTD1_002,52.2582,-7.102209,,3,,,Fibre Broadband Cabinet is Live 
 ,,WTD1_003,52.25684,-7.11031,,2,,,Fibre Build commenced - completion work is in progress
@@ -6266,19 +6279,19 @@ Blank1,Blank2,Cab Number,Lat,Long,All counties,Fibre Services Live,Fibre Build C
 ,,WXD1_018,52.329528,-6.503295,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,WXD1_022,52.30121,-6.498491,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,WXD1_E01,52.329797,-6.46345,,1,,,Fibre Broadband Cabinet is planned for this location
-,,YHL1_001,51.961893,-7.860341,,3,,,Fibre Broadband Cabinet is Live 
-,,YHL1_002,51.95674,-7.854211,,3,,,Fibre Broadband Cabinet is Live 
-,,YHL1_003,51.955956,-7.860666,,3,,,Fibre Broadband Cabinet is Live 
-,,YHL1_004,51.951125,-7.847007,,3,,,Fibre Broadband Cabinet is Live 
-,,YHL1_005,51.940733,-7.848852,,3,,,Fibre Broadband Cabinet is Live 
-,,YHL1_006,51.945694,-7.856118,,3,,,Fibre Broadband Cabinet is Live 
-,,YHL1_007,51.938887,-7.864715,,3,,,Fibre Broadband Cabinet is Live 
-,,YHL1_008,51.95499,-7.848883,,3,,,Fibre Broadband Cabinet is Live 
-,,YHL1_009,51.94705,-7.847525,,3,,,Fibre Broadband Cabinet is Live 
-,,YHL1_010,51.941832,-7.861245,,3,,,Fibre Broadband Cabinet is Live 
-,,YHL1_011,51.957925,-7.862381,,3,,,Fibre Broadband Cabinet is Live 
-,,YHL1_012,51.953726,-7.86764,,3,,,Fibre Broadband Cabinet is Live 
-,,YHL1_013,51.95293,-7.858606,,3,,,Fibre Broadband Cabinet is Live 
+,,YHL1_001,51.961893,-7.860341,,2,,,Fibre Broadband Cabinet is expected to go Live on 31/12/13
+,,YHL1_002,51.95674,-7.854211,,2,,,Fibre Build commenced - completion work is in progress
+,,YHL1_003,51.955956,-7.860666,,2,,,Fibre Build commenced - completion work is in progress
+,,YHL1_004,51.951125,-7.847007,,2,,,Fibre Build commenced - completion work is in progress
+,,YHL1_005,51.940733,-7.848852,,2,,,Fibre Build commenced - completion work is in progress
+,,YHL1_006,51.945694,-7.856118,,2,,,Fibre Broadband Cabinet is expected to go Live on 31/12/13
+,,YHL1_007,51.938887,-7.864715,,2,,,Fibre Build commenced - completion work is in progress
+,,YHL1_008,51.95499,-7.848883,,2,,,Fibre Build commenced - completion work is in progress
+,,YHL1_009,51.94705,-7.847525,,2,,,Fibre Broadband Cabinet is expected to go Live on 11/12/13
+,,YHL1_010,51.941832,-7.861245,,2,,,Fibre Build commenced - completion work is in progress
+,,YHL1_011,51.957925,-7.862381,,2,,,Fibre Build commenced - completion work is in progress
+,,YHL1_012,51.953726,-7.86764,,2,,,Fibre Broadband Cabinet is expected to go Live on 31/12/13
+,,YHL1_013,51.95293,-7.858606,,2,,,Fibre Build commenced - completion work is in progress
 ,,YHL1_E01,51.9483,-7.8537,,1,,,Fibre Broadband Cabinet is planned for this location
 ,,SND1_008,53.259188,-6.221092,,3,,,Fibre Services are available in parts of this area
 ,,SND1_011,53.259611,-6.22123,,3,,,Fibre Services are available in parts of this area
